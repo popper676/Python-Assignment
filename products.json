@@ -1,0 +1,208 @@
+{
+    "merchant1": [
+        {
+            "id": "p2",
+            "name": "City Tour",
+            "category": "Tour",
+            "quantity": 25,
+            "price": 50,
+            "schedule": "Available daily"
+        },
+        {
+            "id": "p3",
+            "name": "Beach Resort",
+            "category": "Accommodation",
+            "quantity": 5,
+            "price": 300,
+            "schedule": "Available all year"
+        },
+        {
+            "id": "p4",
+            "name": "Mountain Hike",
+            "category": "Adventure",
+            "quantity": 15,
+            "price": 80,
+            "schedule": "Available on weekends"
+        },
+        {
+            "id": "p5",
+            "name": "Museum Visit",
+            "category": "Tour",
+            "quantity": 30,
+            "price": 20,
+            "schedule": "Available weekdays"
+        },
+        {
+            "id": "p6",
+            "name": "Safari Adventure",
+            "category": "Adventure",
+            "quantity": 10,
+            "price": 150,
+            "schedule": "Available monthly"
+        },
+        {
+            "id": "p7",
+            "name": "Wine Tasting",
+            "category": "Tour",
+            "quantity": 20,
+            "price": 100,
+            "schedule": "Available weekends"
+        },
+        {
+            "id": "p8",
+            "name": "Luxury Cruise",
+            "category": "Tour",
+            "quantity": 3,
+            "price": 500,
+            "schedule": "Available all year"
+        },
+        {
+            "id": "p9",
+            "name": "Theme Park",
+            "category": "Entertainment",
+            "quantity": 40,
+            "price": 70,
+            "schedule": "Available daily"
+        },
+        {
+            "id": "p10",
+            "name": "Cooking Class",
+            "category": "Education",
+            "quantity": 12,
+            "price": 60,
+            "schedule": "Available on weekends"
+        },
+        {
+            "id": "p11",
+            "name": "Power Running",
+            "category": "Tour",
+            "quantity": 60,
+            "price": 40.0,
+            "schedule": "Available daily"
+        },
+        {
+            "id": "p12",
+            "name": "Scuba Diving",
+            "category": "Adventure",
+            "quantity": 8,
+            "price": 120,
+            "schedule": "Available on weekends"
+        }
+    ],
+    "merchant2": [
+        {
+            "id": "p14",
+            "name": "Yoga Retreat",
+            "category": "Wellness",
+            "quantity": 10,
+            "price": 200,
+            "schedule": "Available monthly"
+        },
+        {
+            "id": "p16",
+            "name": "River Rafting",
+            "category": "Adventure",
+            "quantity": 12,
+            "price": 150,
+            "schedule": "Available weekends"
+        },
+        {
+            "id": "p17",
+            "name": "Jazz Concert",
+            "category": "Entertainment",
+            "quantity": 100,
+            "price": 60,
+            "schedule": "Available monthly"
+        },
+        {
+            "id": "p18",
+            "name": "Pottery Workshop",
+            "category": "Education",
+            "quantity": 15,
+            "price": 45,
+            "schedule": "Available weekends"
+        },
+        {
+            "id": "p19",
+            "name": "Hot Air Balloon Ride",
+            "category": "Adventure",
+            "quantity": 6,
+            "price": 300,
+            "schedule": "Available daily"
+        },
+        {
+            "id": "p20",
+            "name": "Cooking Masterclass",
+            "category": "Cooking",
+            "quantity": 60,
+            "price": 500.0,
+            "schedule": "Monthly"
+        }
+    ],
+    "merchant3": [
+        {
+            "id": "p21",
+            "name": "Ski Trip",
+            "category": "Adventure",
+            "quantity": 20,
+            "price": 400,
+            "schedule": "Available during winter"
+        },
+        {
+            "id": "p22",
+            "name": "City Walking Tour",
+            "category": "Tour",
+            "quantity": 30,
+            "price": 30,
+            "schedule": "Available daily"
+        },
+        {
+            "id": "p23",
+            "name": "Photography Expedition",
+            "category": "Tour",
+            "quantity": 10,
+            "price": 150,
+            "schedule": "Available weekends"
+        },
+        {
+            "id": "p24",
+            "name": "Mountain Biking",
+            "category": "Adventure",
+            "quantity": 15,
+            "price": 90,
+            "schedule": "Available daily"
+        },
+        {
+            "id": "p25",
+            "name": "Rock Climbing",
+            "category": "Adventure",
+            "quantity": 12,
+            "price": 70,
+            "schedule": "Available on weekends"
+        },
+        {
+            "id": "p26",
+            "name": "Boat Tour",
+            "category": "Tour",
+            "quantity": 40,
+            "price": 50,
+            "schedule": "Available daily"
+        },
+        {
+            "id": "p27",
+            "name": "Cultural Festival",
+            "category": "Entertainment",
+            "quantity": 200,
+            "price": 20,
+            "schedule": "Available yearly"
+        },
+        {
+            "id": "p28",
+            "name": "Horse Riding",
+            "category": "Adventure",
+            "quantity": 10,
+            "price": 100,
+            "schedule": "Available daily"
+        }
+    ]
+}

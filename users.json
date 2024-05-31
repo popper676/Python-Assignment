@@ -1,0 +1,84 @@
+{
+    "admin": {
+        "admin1": {
+            "password": "adminpass",
+            "blocked": false
+        }
+    },
+    "merchant": {
+        "merchant1": {
+            "password": "merchantpass",
+            "blocked": false,
+            "products": []
+        },
+        "merchant2": {
+            "password": "merchant2pass",
+            "blocked": false,
+            "products": []
+        },
+        "merchant3": {
+            "password": "merchant3pass",
+            "blocked": false,
+            "products": []
+        }
+    },
+    "traveller": {
+        "traveller1": {
+            "password": "travellerpass",
+            "blocked": false,
+            "profile": {
+                "name": "John Doe",
+                "email": "johndoe@example.com"
+            }
+        },
+        "lin": {
+            "password": "123",
+            "blocked": false,
+            "profile": {
+                "name": "linhtike",
+                "email": "linhtike@gmail.com"
+            },
+            "recommended_trips": [
+                "p28"
+            ]
+        },
+        "sam": {
+            "password": "123",
+            "blocked": false,
+            "profile": {
+                "name": "lin",
+                "email": "lin@mail.com"
+            },
+            "recommended_trips": [
+                "p16"
+            ]
+        },
+        "linhtike": {
+            "password": "345",
+            "blocked": true,
+            "profile": {
+                "name": "linlin34",
+                "email": "lin34@gmail.com"
+            },
+            "recommended_trips": [
+                "p3"
+            ]
+        },
+        "KOKO": {
+            "password": "567",
+            "blocked": true,
+            "profile": {
+                "name": "koGKyaw",
+                "email": "K2gmail.com"
+            }
+        },
+        "test1": {
+            "password": "2345",
+            "blocked": false,
+            "profile": {
+                "name": "tester1",
+                "email": "dsklfj"
+            }
+        }
+    }
+}

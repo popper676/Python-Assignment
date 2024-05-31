@@ -1,0 +1,9 @@
+booking_id,traveller_id,product_id,date
+b1,traveller1,p1,2023-06-15
+b2,traveller1,p2,2023-06-16
+b3,lin,2,2024-03-14
+b5,linlin,p2,2029-06-14
+b6,linlin,p1,2024-09-12
+b6,linlin,p21,2020-09-7
+b7,linhtike,p4,2020-08-09
+b8,test1,p24,2024-02-30
